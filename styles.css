@@ -28,23 +28,3 @@ h2 {
     color: #333;
 }
 
-#checkboxLabel {
-    display: inline-block;
-    margin-bottom: 10px;
-}
-
-#submitButton {
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: not-allowed;
-    background-color: #ddd;
-    border: 1px solid #aaa;
-    border-radius: 5px;
-    color: #888;
-}
-
-#submitButton.active {
-    cursor: pointer;
-    background-color: #4caf50;
-    color: #fff;
-}
